@@ -41,8 +41,9 @@ The python notebook were tested with python3:<br>
 <a name="install"></a>
 ## 4 - Installing
 
-Clone the repository
-   git clone https://github.com/edbroni/disaster_pipeline.git
+Clone the repository<br>
+
+	git clone https://github.com/edbroni/covid_sus.git
 
 <a name="execute"></a>
 ## 5 - Executing
